@@ -30,7 +30,7 @@ This project is designed to scrape product information from the e-commerce site 
 Execute the script to start scraping the e-commerce site and saving the data to a CSV file(data_(date)):
 
 ```sh
-python scraper.py
+python main.py
 ```
 
 ## Files
