@@ -35,7 +35,7 @@ python main.py
 
 ## Files
 
-- **scraper.py**: The main script for scraping and saving data.
+- **main.py**: The main script for scraping and saving data.
 - **requirements.txt**: Lists the required Python packages.
 
 ---
